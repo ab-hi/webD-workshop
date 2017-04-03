@@ -1,0 +1,72 @@
+
+*{
+	font-family: sans-serif;
+}
+
+body{
+	background: url('background.jpg');
+	background-size: cover;
+}
+.google{
+	font-family: sans-serif;
+	font-size: 80px;
+	position: absolute;
+	left: 40%;
+	top:40%;
+}
+
+#g1, #g2{
+	color: blue;
+}
+
+#o1,#e{
+	color: red;
+}
+
+#o2{
+	color: yellow;
+}
+#l{
+	color: green;
+}
+
+#search-bar{
+	position: absolute;
+	left: 40%;
+	top:65%;
+	height: 30px;
+	width: 300px;
+}
+.india{
+	color: blue;
+	position: absolute;
+	left: 58%;
+	top:58%;
+}
+
+.btns{
+	position: absolute;
+	top:75%;
+	left: 42%;
+	padding: 8px;
+	border: none;
+	color: #666666; 
+
+}
+
+#lucky-btn{
+	margin-left:125px; 
+}
+
+.btns:hover{
+	border: 1px solid #777777;
+	color: #222222;
+}
+.lang{
+	position: absolute;
+	left: 35%;
+	top:82%;
+}
+a{
+	text-decoration: none;
+}
