@@ -14,22 +14,18 @@ body{
 	left: 40%;
 	top:40%;
 }
-
 #g1, #g2{
 	color: blue;
 }
-
 #o1,#e{
 	color: red;
 }
-
 #o2{
 	color: yellow;
 }
 #l{
 	color: green;
 }
-
 #search-bar{
 	position: absolute;
 	left: 40%;
